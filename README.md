@@ -16,6 +16,6 @@ https://hardhat.org/
 
 
 III. To do:
- - Please clone this repository
+ - Clone this repository
  - Add a file
  - Ask to merge
