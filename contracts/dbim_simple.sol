@@ -7,7 +7,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.1
 
 contract dbim_basic is Ownable {
 
-    string public IPFSHash = "I pretend to be a hash";
+    string public IPFSHash = "THIS IS AWESOME";
     uint public myUint;
 
 
