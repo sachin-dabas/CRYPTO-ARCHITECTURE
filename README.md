@@ -19,3 +19,10 @@ III. To do:
  - Clone this repository
  - Add a file
  - Ask to merge
+
+IV. Learning resources:
+- https://nftschool.dev/tutorial/first-steps/#prerequisites
+- https://foam.space/
+- https://www.youtube.com/channel/UCPcMBKgYSnj0uYfSAlAxwZQ
+- https://www.youtube.com/c/EconomicsDesign
+- https://www.youtube.com/c/HashLipsNFT
