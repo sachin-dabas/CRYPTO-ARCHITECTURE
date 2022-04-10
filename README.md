@@ -21,6 +21,8 @@ III. To do:
  - Ask to merge
 
 IV. Learning resources:
+- https://athenslab.github.io/Ethereum-Companion/
+- https://ethereum.org/en/developers/docs/intro-to-ethereum/
 - https://nftschool.dev/tutorial/first-steps/#prerequisites
 - https://foam.space/
 - https://www.youtube.com/channel/UCPcMBKgYSnj0uYfSAlAxwZQ
