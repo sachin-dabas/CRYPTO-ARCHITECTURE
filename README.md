@@ -28,3 +28,4 @@ IV. Learning resources:
 - https://www.youtube.com/channel/UCPcMBKgYSnj0uYfSAlAxwZQ
 - https://www.youtube.com/c/EconomicsDesign
 - https://www.youtube.com/c/HashLipsNFT
+- https://docs.ethers.io/v5/single-page/
